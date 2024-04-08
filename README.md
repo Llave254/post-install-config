@@ -27,26 +27,27 @@ My tutorial outlines the post-install configuration of the open-source help desk
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Llave254/post-install-config/assets/166266714/bbed2bc8-5bb2-4d4b-b2fb-3b410a5ca07d)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- (Ex:Above Img.)
+- Login to the osTicket Admin Panel 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Llave254/post-install-config/assets/166266714/edf58b20-320e-441b-bfe5-0d3c5d81d54f)
+
+- (Ex:Above Img.)
+- Configure Roles
+
+![image](https://github.com/Llave254/post-install-config/assets/166266714/9127155a-8891-481e-a67d-50bc7e5766b3)
+
+- (Ex:Above Img.)
+- Configure Departments
+
+![image](https://github.com/Llave254/post-install-config/assets/166266714/f6a7c818-1283-40e6-a448-9f902ca26524)
+
+- (Ex:Above Img.)
+- Configure Team
+
+![image](https://github.com/Llave254/post-install-config/assets/166266714/35305c9b-5b92-45e3-b63e-9a0d9dfe6043)
+
+- (Ex:Above Img.)
+- Configure Help Topics 
