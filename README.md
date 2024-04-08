@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-My tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+My instructions outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
